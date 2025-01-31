@@ -10,7 +10,7 @@ setup(
     python_requires='>=3.8',
     packages=find_packages(),
     setup_requires=['setuptools-git-versioning'],
-    install_requires=requirements,
+    # install_requires=requirements,
     author="steven carlson",
     author_email="steven.carlson@gmail.com",
     description="A short description of your package",
